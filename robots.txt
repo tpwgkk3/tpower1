@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Block sensitive or non-SEO pages (optional)
+Disallow: /login.html
+Disallow: /signup.html
+
+# Allow important pages
+Allow: /what-is-tpower.html
+Allow: /readme.html
+Allow: /tpower-game-providers.html
+Allow: /how-to-register-tpower.html
+Allow: /cn.html
+
+# Sitemap
+Sitemap: https://tpower1.net/sitemap.xml
