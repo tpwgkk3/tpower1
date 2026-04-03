@@ -13,4 +13,4 @@ Allow: /how-to-register-tpower.html
 Allow: /cn.html
 
 # Sitemap
-Sitemap: https://tpower1.net/sitemap.xml
+Sitemap: https://www.tpower1.net/sitemap.xml
