@@ -3,66 +3,66 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://tpower1.net/</loc>
+    <loc>https://www.tpower1.net/</loc>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
 
   <!-- Main Pages -->
   <url>
-    <loc>https://tpower1.net/what-is-tpower.html</loc>
+    <loc>https://www.tpower1.net/what-is-tpower.html</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://tpower1.net/readme.html</loc>
+    <loc>https://www.tpower1.net/readme.html</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://tpower1.net/tpower-game-providers.html</loc>
+    <loc>https://www.tpower1.net/tpower-game-providers.html</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://tpower1.net/how-to-register-tpower.html</loc>
+    <loc>https://www.tpower1.net/how-to-register-tpower.html</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Chinese Version -->
   <url>
-    <loc>https://tpower1.net/cn.html</loc>
+    <loc>https://www.tpower1.net/cn.html</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://tpower1.net/terms.html</loc>
+    <loc>https://www.tpower1.net/terms.html</loc>
     <priority>0.5</priority>
     <changefreq>yearly</changefreq>
   </url>
 
   <url>
-    <loc>https://tpower1.net/privacy.html</loc>
+    <loc>https://www.tpower1.net/privacy.html</loc>
     <priority>0.5</priority>
     <changefreq>yearly</changefreq>
   </url>
 
   <!-- Support / Contact -->
   <url>
-    <loc>https://tpower1.net/contact.html</loc>
+    <loc>https://www.tpower1.net/contact.html</loc>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Optional -->
   <url>
-    <loc>https://tpower1.net/about.html</loc>
+    <loc>https://www.tpower1.net/about.html</loc>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
